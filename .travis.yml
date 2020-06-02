@@ -3,25 +3,7 @@ matrix:
   include:
    - os: linux
      arch: amd64
-     node_js: 8
-   - os: linux
-     arch: amd64
-     node_js: 10
-   - os: linux
-     arch: amd64
-     node_js: 11
-   - os: linux
-     arch: amd64
      node_js: 12
-   - os: linux
-     arch: arm64
-     node_js: 8
-   - os: linux
-     arch: arm64
-     node_js: 10
-   - os: linux
-     arch: arm64
-     node_js: 11
    - os: linux
      arch: arm64
      node_js: 12
